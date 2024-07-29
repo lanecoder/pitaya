@@ -76,6 +76,7 @@ This command will run both unit and e2e tests.
 
 ## Contributing
 #TODO
+* lanecoder
 
 ## Authors
 * **TFG Co** - Initial work
